@@ -4,6 +4,7 @@
 
 
 Commands Used:
+
 1)Create a new project on your local machine,then push it your remote repo.
 git init
 git remote add origin git@github.com:aya5671/Lab_2.gi
